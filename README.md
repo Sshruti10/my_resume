@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 * Install create-react-app npm install -g create-react-app
 
-* cd tic_tac_toe
+* cd my_resume
 
 In the project directory, you can run:
 
