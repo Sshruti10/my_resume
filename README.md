@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 * Fork the repository
 
-* Clone the repository using git clone https://github.com/username/tic_tac_toe.git where username is your github username.
+* Clone the repository using git clone https://github.com/username/my_resume.git where username is your github username.
 
 * Install create-react-app npm install -g create-react-app
 
